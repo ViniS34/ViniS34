@@ -1,7 +1,7 @@
 ## Olá!
 
 - 🔭 Estou em busca do meu primeiro emprego
-- 🌱 Estudando Ambiente Computacionais e Sistemas Distribuidos Mobile
+- 🌱 Estudando Ambientes Computacionais e Sistemas Distribuidos Mobile
 - 👯 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
 
 
