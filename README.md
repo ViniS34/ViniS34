@@ -1,4 +1,4 @@
-## Olá! Seja Bem-vindo a minha página no GitHub.
+## Olá! Seja Bem-vindo(a) a minha página no GitHub.
 
 - 🔭 Estou em busca do meu primeiro emprego
 - 🌱 Estudando Ambientes Computacionais e Sistemas Distribuidos Mobile
