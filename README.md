@@ -1,6 +1,6 @@
 ## Olá! Seja Bem-vindo(a) a minha página no GitHub.
 
-- 🌱 Estudando Ambientes Computacionais e Sistemas Distribuidos Mobile
+- 🌱 Estudando Modelos | métodos | técnicas da engenharia de software, Sistemas Computacionais e Segurança, Inglês instrumental e pensamento digital.
 - 👯 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
 
  
