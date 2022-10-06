@@ -1,6 +1,6 @@
 ## Olá! Seja Bem-vindo(a) a minha página no GitHub.
 
-- 🌱 Estudando Modelos | métodos | técnicas da engenharia de software, Sistemas Computacionais e Segurança, Inglês instrumental e pensamento digital.
+- 🌱 Estudando Inovação, Sustentabilidade e competitividade empresarial
 - 👯 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
 
  
